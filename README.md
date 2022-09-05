@@ -14,7 +14,7 @@ Provide a short description explaining the what, why, and how of your project. U
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 ## Installation 
-  #N/A
+  N/A
 ## Usage
   The best way to use this Study Guide is by taking the notes that you see as important and adding them to the proper placement such as the HTML, CSS, JavaScript, and GitHub topics
  ## Credits]
